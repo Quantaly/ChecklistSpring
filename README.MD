@@ -1,3 +1,9 @@
+# ChecklistSpring
+This uses the code from my ChecklistEditor repo at https://github.com/gamernator8192/ChecklistEditor/ in a Spring Boot Framework... whatever you call something that uses the SBF. Because this is obviously what one does with checklists.
+The README from ChecklistEditor is below, for reference.
+
+---
+
 # ChecklistEditor
 Simple checklists stored in plain text files.
 
